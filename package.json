@@ -1,6 +1,6 @@
 {
   "name": "changeme",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "TODO: describe package",
   "type": "module",
   "license": "MIT",
@@ -58,7 +58,7 @@
     "@biomejs/biome": "^2.5.3",
     "@dprint/markdown": "^0.22.1",
     "@types/bun": "1.3.14",
-    "dprint": "^0.55.1",
+    "dprint": "^0.55.2",
     "dprint-plugin-yaml": "^0.6.0",
     "typescript": "7.0.2"
   }
