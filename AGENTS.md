@@ -26,7 +26,7 @@ Reusable TypeScript template instructions for a library plus CLI project.
 - Bun-specific modules such as `bun:sqlite`, `Bun.redis`, and `Bun.sql` are acceptable only when they are isolated to Bun-only codepaths or replaced during bundling.
 - For distributed runtime code, prefer libraries and APIs that work under plain `node`.
 - Prefer `Bun.file` over `node:fs` `readFile` and `writeFile` where practical in Bun-only codepaths.
-- Prefer `Bun.$\`...\``over`execa` in Bun-only tooling and scripts.
+- Prefer ``Bun.$\``...\```over``execa` in Bun-only tooling and scripts.
 
 ## Project Shape
 
